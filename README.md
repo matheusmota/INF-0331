@@ -25,3 +25,4 @@ Get started cloning the repository withing a Jupyter environment or via:
 	docker run matheusmota/inf-0331
 	```
 
+
