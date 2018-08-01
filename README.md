@@ -1,1 +1,1 @@
-# INF-0331
+# java-components-jupyter
