@@ -1,3 +1,5 @@
 pip install ipywidgets
 jupyter nbextension enable --py widgetsnbextension
 jupyter labextension install @jupyter-widgets/jupyterlab-manager
+mosquitto &
+jupyter lab build
