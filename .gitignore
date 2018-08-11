@@ -9,6 +9,9 @@ __pycache__
 #   git rm -r .ipynb_checkpoints/
 #
 
+.*
+!/.gitignore
+
 
 # End of https://www.gitignore.io/api/jupyternotebook
 
