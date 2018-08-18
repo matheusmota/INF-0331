@@ -4,15 +4,15 @@ channels:
 dependencies:
   - ipywidgets
   - beakerx
+  - traitlets
+  - ipython
+  - vdom
+  - jupyterlab_launcher
+  - ipywidgets
+  - beakerx
   - feedparser
   - paho-mqtt
   - jupyter_contrib_nbextensions
   - numpy
-  - psutil
-  - toolz
   - matplotlib
-  - dill
   - pandas
-  - partd
-  - bokeh
-  - dask  
