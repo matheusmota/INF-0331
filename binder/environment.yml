@@ -5,13 +5,12 @@ dependencies:
   - ipywidgets
   - beakerx
   - traitlets
-  - ipython
-  - jupyterlab_launcher
-  - ipywidgets
-  - beakerx
-  - feedparser
-  - paho-mqtt
-  - jupyter_contrib_nbextensions
-  - numpy
-  - matplotlib
-  - pandas
+  - pip:
+    - jupyterlab_launcher
+    - ipywidgets
+    - feedparser
+    - paho-mqtt
+    - jupyter_contrib_nbextensions
+    - numpy
+    - matplotlib
+    - pandas
