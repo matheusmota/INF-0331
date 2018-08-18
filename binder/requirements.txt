@@ -1,9 +1,5 @@
-traitlets
-ipython
-vdom
 jupyterlab_launcher
 ipywidgets
-beakerx
 feedparser
 paho-mqtt
 jupyter_contrib_nbextensions
