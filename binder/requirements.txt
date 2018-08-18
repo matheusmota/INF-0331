@@ -1,6 +1,5 @@
 traitlets>=4.3.1
 ipython
-pandas
 vdom
 jupyterlab_launcher>=0.5.0
 ipywidgets
@@ -9,10 +8,5 @@ feedparser
 paho-mqtt
 jupyter_contrib_nbextensions
 numpy
-psutil
-toolz
 matplotlib
-dill
 pandas
-partd
-bokeh
