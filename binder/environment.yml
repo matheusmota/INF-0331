@@ -1,7 +1,0 @@
-name: beakerx
-channels:
-    - conda-forge
-    - QuantStack
-dependencies:
-    - ipywidgets
-    - beakerx
