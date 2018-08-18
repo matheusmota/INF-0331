@@ -4,7 +4,7 @@ from datetime import date, timedelta, datetime
 import time
 import random
 import paho.mqtt.client as paho
-
+ret= client1.publish("/zombieclinic/diagnosis/request",output)  
 broker="localhost"
 port=1883
 def on_publish(client,userdata,result):             #create function for callback
