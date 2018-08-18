@@ -16,4 +16,3 @@ dill
 pandas
 partd
 bokeh
-Sdask  
