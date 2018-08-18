@@ -1,5 +1,0 @@
-feedparser
-beakerx
-paho-mqtt
-ipywidgets
-jupyter_contrib_nbextensions
