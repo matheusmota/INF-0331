@@ -6,7 +6,6 @@ dependencies:
   - beakerx
   - traitlets
   - ipython
-  - vdom
   - jupyterlab_launcher
   - ipywidgets
   - beakerx
