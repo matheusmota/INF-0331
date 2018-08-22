@@ -1,6 +1,6 @@
 import paho.mqtt.client as paho
 import random
-broker="iot.eclipse.org"
+broker="localhost"
 port=1883 
 pub_topic="/news/all" 
 
@@ -37,5 +37,5 @@ while(True):
               }
 
         client1.publish(pub_topic,json.dumps(item)) 
-        time.sleep(random.randint(3,8))
+        time.sleep(random.randint(3,7))
 print("Finished publishing!")

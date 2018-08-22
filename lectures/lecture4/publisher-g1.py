@@ -1,6 +1,6 @@
 import paho.mqtt.client as paho
 import random
-broker="iot.eclipse.org"
+broker="localhost"
 port=1883 
 pub_topic="/news/all" 
 
