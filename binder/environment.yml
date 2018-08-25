@@ -12,6 +12,3 @@ dependencies:
     - feedparser
     - paho-mqtt
     - jupyter_contrib_nbextensions
-    - numpy
-    - matplotlib
-    - pandas

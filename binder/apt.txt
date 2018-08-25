@@ -2,4 +2,3 @@ mosquitto
 mosquitto-clients  
 htop
 vim
-openjdk-8-jdk
