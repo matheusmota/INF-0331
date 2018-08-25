@@ -5,7 +5,6 @@ dependencies:
   - ipywidgets
   - beakerx
   - traitlets
-  - jupyter==4.4.0
   - jupyterlab==0.33.11
   - pip:
     - jupyterlab_launcher
