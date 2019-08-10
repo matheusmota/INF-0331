@@ -15,7 +15,12 @@ Associated examples and material of the discipline *Software Componentization an
 Examples and exercises are also presented as [Jupyter Notebooks](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html). 
 Get started cloning the repository withing a Jupyter environment or via:
 
+
+
+
 - #### Jupyter Container at [mybinder.org](https://mybinder.org/) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/matheusmota/INF-0331/master)
+
+
 
 
 - #### [JupyterLab](https://towardsdatascience.com/jupyterlab-you-should-try-this-data-science-ui-for-jupyter-right-now-a799f8914bb3) Container at [mybinder.org](mybinder.org) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/matheusmota/INF-0331/master?urlpath=lab )
